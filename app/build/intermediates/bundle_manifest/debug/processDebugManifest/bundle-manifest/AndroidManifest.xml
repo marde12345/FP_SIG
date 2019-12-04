@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.indoorpositioning"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/icon_wips"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_wips_round"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.indoorpositioning.IndoorMapsActivity"
+            android:label="@string/mapsbox"
+            android:theme="@style/AppThemeHome" />
+        <activity
+            android:name="com.example.indoorpositioning.Activity.Scan"
+            android:label="Scan"
+            android:theme="@style/AppThemeHome" />
+        <activity
+            android:name="com.example.indoorpositioning.Activity.Positions"
+            android:label="Calibrate"
+            android:theme="@style/AppThemeHome" />
+        <activity
+            android:name="com.example.indoorpositioning.Activity.Buildings"
+            android:label="Buildings"
+            android:theme="@style/AppThemeHome" />
+        <activity
+            android:name="com.example.indoorpositioning.Activity.StartingScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeHome" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.indoorpositioning.Activity.Locate"
+            android:label="Locate"
+            android:theme="@style/AppThemeHome" />
+        <activity
+            android:name="com.example.indoorpositioning.Activity.FriendlyWifis"
+            android:label="Choose Friendly Wifis"
+            android:theme="@style/AppThemeHome" />
+        <activity android:name="com.example.indoorpositioning.BaseActivity" />
+
+        <provider
+            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+            android:authorities="com.example.indoorpositioning.mapboxtelemetryinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <service
+            android:name="com.mapbox.android.telemetry.crash.CrashReporterJobIntentService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+    </application>
+
+</manifest>

@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\570737f0dd8c1812a19c0acb2d58cbb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\0ea259c136b4cafbe8592626566f4972\AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lottie-3.1.0.aar\4e519a0f5dd78fbd27a669eefec3f2c9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\86bd3531d5c74a71d3ba66c417e3241a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\acf397efea4d6964ea5a99beddeee1f6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\6679886d63d79cdd88cca692d3506b29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\gridlayout-1.0.0.aar\fe02863f8da1a7773db601bace3e2299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\library-1.6.2.aar\fc635726da8cc48e6fa338855ac3f88f\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\6803df48f2ba36b0e44b11c8512ba41c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8079b42341b3e127e32db6b8e50f510b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\bc36eea95bea66fcfcaa5fbf3da2b2c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\dc8f7ca340113342998f76170f338ff4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.1.0-alpha03.aar\e9b7372ac8f2fc6308d2fd391cbf0da0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\72ea462d04b4b2510ef6603b30830790\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\025bb70adca112b20a08be42d9405661\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\3bb37808c84f9dfa1dae7b38a596da13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\71fab4e5588c4c267776e1b8bd23e77e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7812926508173273ab3c551256a1a77c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ef59accfea064b5afa9dba78c66f76e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\71656056f2854ac70454b232ce33ed3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d190199d39394bf8fa1c940b1686d74e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4c934a3608d658cd014ade8c6b24f591\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6868c465ebd37323ae082d0834abe57f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9b91c6201d9d9417c947409e7f4bf7a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-gestures-0.5.1.aar\7fcb40cf9077812d2092f5f05e1a619a\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc24c27cf5d0fef3fd96e9d452760ebb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e9adc782c6b68665cf06c092d04ceaca\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7dc20cdd7bb1387dd9fb350b031a8bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b20920f518827d983f06e7e3792d8dc2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\430d43f81aa9e343774f8b3fa0cb004b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\81e7f146bd7a877b1c263dfaebe7fe96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0cfcea1a8e3c43057088ae2fe028eaf8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6d3a3e55a85dce17eddc2e578a5645ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\ca0d94c02fa314ffc5d7c57629101bce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f902cb48d40f741d16e22f4ca010f0bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2f6caafe00b806b669aab210d7699ba3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e24169e4c141435c0d3ff04343bd6e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-accounts-0.2.0.aar\cd68a22d3d1c140e1f41272f4bb6f2e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.7.aar\ed74a772f9c2e5565423d72506503df0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.soloader:soloader:0.6.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\soloader-0.6.1.aar\e083cd489772ca5e21fc2d061334d7d9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:9:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:15:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:14:5-55:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\0ea259c136b4cafbe8592626566f4972\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\0ea259c136b4cafbe8592626566f4972\AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lottie-3.1.0.aar\4e519a0f5dd78fbd27a669eefec3f2c9\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lottie-3.1.0.aar\4e519a0f5dd78fbd27a669eefec3f2c9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\acf397efea4d6964ea5a99beddeee1f6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\acf397efea4d6964ea5a99beddeee1f6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\library-1.6.2.aar\fc635726da8cc48e6fa338855ac3f88f\AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\library-1.6.2.aar\fc635726da8cc48e6fa338855ac3f88f\AndroidManifest.xml:11:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:18:5-28:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:18:5-28:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc24c27cf5d0fef3fd96e9d452760ebb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc24c27cf5d0fef3fd96e9d452760ebb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e9adc782c6b68665cf06c092d04ceaca\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e9adc782c6b68665cf06c092d04ceaca\AndroidManifest.xml:24:5-25:19
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.7.aar\ed74a772f9c2e5565423d72506503df0\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.7.aar\ed74a772f9c2e5565423d72506503df0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\soloader-0.6.1.aar\e083cd489772ca5e21fc2d061334d7d9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\soloader-0.6.1.aar\e083cd489772ca5e21fc2d061334d7d9\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc24c27cf5d0fef3fd96e9d452760ebb\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:18:9-52
+	android:icon
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.indoorpositioning.IndoorMapsActivity
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:20:9-23:60
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:22:13-44
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:21:13-47
+activity#com.example.indoorpositioning.Activity.Scan
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:24:9-27:60
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:26:13-33
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:25:13-42
+activity#com.example.indoorpositioning.Activity.Positions
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:28:9-31:60
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:30:13-38
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:29:13-47
+activity#com.example.indoorpositioning.Activity.Buildings
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:32:9-35:60
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:34:13-38
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:33:13-47
+activity#com.example.indoorpositioning.Activity.StartingScreen
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:39:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:37:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.indoorpositioning.Activity.Locate
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:46:9-49:60
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:48:13-35
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:49:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:47:13-44
+activity#com.example.indoorpositioning.Activity.FriendlyWifis
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:50:9-53:60
+	android:label
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:52:13-50
+	android:theme
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:53:13-48
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:51:13-51
+activity#com.example.indoorpositioning.BaseActivity
+ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:54:9-50
+	android:name
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml:54:19-47
+uses-sdk
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\570737f0dd8c1812a19c0acb2d58cbb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\570737f0dd8c1812a19c0acb2d58cbb4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\0ea259c136b4cafbe8592626566f4972\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\0ea259c136b4cafbe8592626566f4972\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lottie-3.1.0.aar\4e519a0f5dd78fbd27a669eefec3f2c9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lottie-3.1.0.aar\4e519a0f5dd78fbd27a669eefec3f2c9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\86bd3531d5c74a71d3ba66c417e3241a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\86bd3531d5c74a71d3ba66c417e3241a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\acf397efea4d6964ea5a99beddeee1f6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\acf397efea4d6964ea5a99beddeee1f6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\6679886d63d79cdd88cca692d3506b29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\6679886d63d79cdd88cca692d3506b29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\gridlayout-1.0.0.aar\fe02863f8da1a7773db601bace3e2299\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\gridlayout-1.0.0.aar\fe02863f8da1a7773db601bace3e2299\AndroidManifest.xml:20:5-44
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\library-1.6.2.aar\fc635726da8cc48e6fa338855ac3f88f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.6.2] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\library-1.6.2.aar\fc635726da8cc48e6fa338855ac3f88f\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\6803df48f2ba36b0e44b11c8512ba41c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\6803df48f2ba36b0e44b11c8512ba41c\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8079b42341b3e127e32db6b8e50f510b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8079b42341b3e127e32db6b8e50f510b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\bc36eea95bea66fcfcaa5fbf3da2b2c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\bc36eea95bea66fcfcaa5fbf3da2b2c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\dc8f7ca340113342998f76170f338ff4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\dc8f7ca340113342998f76170f338ff4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.1.0-alpha03.aar\e9b7372ac8f2fc6308d2fd391cbf0da0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.1.0-alpha03.aar\e9b7372ac8f2fc6308d2fd391cbf0da0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\72ea462d04b4b2510ef6603b30830790\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\72ea462d04b4b2510ef6603b30830790\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\025bb70adca112b20a08be42d9405661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\025bb70adca112b20a08be42d9405661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\3bb37808c84f9dfa1dae7b38a596da13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\3bb37808c84f9dfa1dae7b38a596da13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\71fab4e5588c4c267776e1b8bd23e77e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\71fab4e5588c4c267776e1b8bd23e77e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7812926508173273ab3c551256a1a77c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7812926508173273ab3c551256a1a77c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ef59accfea064b5afa9dba78c66f76e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ef59accfea064b5afa9dba78c66f76e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\71656056f2854ac70454b232ce33ed3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\71656056f2854ac70454b232ce33ed3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d190199d39394bf8fa1c940b1686d74e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d190199d39394bf8fa1c940b1686d74e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4c934a3608d658cd014ade8c6b24f591\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4c934a3608d658cd014ade8c6b24f591\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6868c465ebd37323ae082d0834abe57f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6868c465ebd37323ae082d0834abe57f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9b91c6201d9d9417c947409e7f4bf7a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9b91c6201d9d9417c947409e7f4bf7a8\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-gestures-0.5.1.aar\7fcb40cf9077812d2092f5f05e1a619a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-gestures-0.5.1.aar\7fcb40cf9077812d2092f5f05e1a619a\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc24c27cf5d0fef3fd96e9d452760ebb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fc24c27cf5d0fef3fd96e9d452760ebb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e9adc782c6b68665cf06c092d04ceaca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e9adc782c6b68665cf06c092d04ceaca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7dc20cdd7bb1387dd9fb350b031a8bc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7dc20cdd7bb1387dd9fb350b031a8bc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b20920f518827d983f06e7e3792d8dc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b20920f518827d983f06e7e3792d8dc2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\430d43f81aa9e343774f8b3fa0cb004b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\430d43f81aa9e343774f8b3fa0cb004b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\81e7f146bd7a877b1c263dfaebe7fe96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\81e7f146bd7a877b1c263dfaebe7fe96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0cfcea1a8e3c43057088ae2fe028eaf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0cfcea1a8e3c43057088ae2fe028eaf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6d3a3e55a85dce17eddc2e578a5645ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\6d3a3e55a85dce17eddc2e578a5645ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\ca0d94c02fa314ffc5d7c57629101bce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\ca0d94c02fa314ffc5d7c57629101bce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f902cb48d40f741d16e22f4ca010f0bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\f902cb48d40f741d16e22f4ca010f0bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2f6caafe00b806b669aab210d7699ba3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2f6caafe00b806b669aab210d7699ba3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e24169e4c141435c0d3ff04343bd6e9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e24169e4c141435c0d3ff04343bd6e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-accounts-0.2.0.aar\cd68a22d3d1c140e1f41272f4bb6f2e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-accounts-0.2.0.aar\cd68a22d3d1c140e1f41272f4bb6f2e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.7.aar\ed74a772f9c2e5565423d72506503df0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.7.aar\ed74a772f9c2e5565423d72506503df0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\soloader-0.6.1.aar\e083cd489772ca5e21fc2d061334d7d9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\soloader-0.6.1.aar\e083cd489772ca5e21fc2d061334d7d9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		ADDED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Kuliah\SIG\WIPS\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:13:9-45
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-core-1.3.0.aar\8e427b1f931eb6378a5e0cf0b1cd29f0\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.4.0] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-sdk-8.4.0.aar\9deb4c146daaf9fc4a28147631736895\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:21:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:20:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:25:9-27:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\LENOVO\.gradle\caches\transforms-1\files-1.1\jetified-mapbox-android-telemetry-4.5.1.aar\ab4a2a3e156e9d6ac6ffd2a6638e2cc0\AndroidManifest.xml:26:13-92
