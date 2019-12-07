@@ -40,6 +40,10 @@ public class FetchData extends AsyncTask<String, Integer, Integer> {
 
     @Override
     protected Integer doInBackground(String... params) {
+
+//        DatabaseHelper db = new DatabaseHelper(context);
+//        db.deleteAllAP();
+//        return 1;
         // Create a new HttpClient and Post Header
         HttpClient httpclient = new DefaultHttpClient();
         HttpGet httpGet = new HttpGet(baseUrl + "");
@@ -57,6 +61,7 @@ public class FetchData extends AsyncTask<String, Integer, Integer> {
                     Log.d("Fetch Data", json);
                     JSONArray buildings = new JSONArray(json);
                     DatabaseHelper db = new DatabaseHelper(context);
+//                    db.deleteAllAP();
                     db.updateDatabase(buildings);
                     return 1;
 

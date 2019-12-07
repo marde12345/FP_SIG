@@ -52,11 +52,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 //		onCreate(db);
 	}
 
-	public boolean deleteAll() {
+	public void deleteAllAP() {
 		SQLiteDatabase db = getWritableDatabase();
 		db.execSQL("DELETE FROM " + AP_TABLE);
 		db.execSQL("DELETE FROM " + READINGS_TABLE);
-		return true;
+
 	}
 
 	public int deleteReading(String building_id, String position_id) {
